@@ -1,0 +1,28 @@
+Our project idea is to implement a version of the classic arcade game "Space Invaders" using what we have learned in class. Some goals for our project are as follows:
+
+Milestone 1:
+Must
+[X] Player with ability to move back and forth and shoot at aliens
+[X] Aliens that move back and forth automatically and shoot at player
+
+Should
+[X] Enemy animations for movement
+
+Could
+[] Boss enemy
+
+Milestone 2:
+Must
+[X] Cover for player to hide behind that breaks as it's shot by enemies
+[X] Multiple Levels
+
+Should
+[] Different alien types, some with more health, some with different weapons
+[X] Power-ups for the player to grab, like health-refill or movement speed increase (maybe other weapons too?)
+
+Could
+[] More complex enemy movement
+
+Won't
+- Multiplayer functionality
+- Randomly generated levels
